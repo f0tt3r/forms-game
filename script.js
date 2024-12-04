@@ -103,3 +103,5 @@ function removeClassesExceptShape() {
 }
 // put <div class="star"></div>
 //add progress?
+
+//https://learnjavascriptfast.com/demo/jsgame.html
